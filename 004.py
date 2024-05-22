@@ -1,4 +1,4 @@
-a = input('Digite algo: ')
+a = input('\nDigite algo: ')
 
 print('O tipo primitivo desse valor é', type(a))
 print('Só tem espaços?', a.isspace())

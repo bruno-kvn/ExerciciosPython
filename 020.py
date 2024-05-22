@@ -1,6 +1,6 @@
 from random import shuffle
 
-a1 = input('Primeiro aluno: ')
+a1 = input('\nPrimeiro aluno: ')
 a2 = input('Segundo aluno: ')
 a3 = input('Terceiro aluno: ')
 a4 = input('Quarto aluno: ')

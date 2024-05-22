@@ -1,4 +1,4 @@
-larg = float(input('Largura da parede: '))
+larg = float(input('\nLargura da parede: '))
 alt = float(input('Altura da parede: '))
 area = larg * alt
 tinta = area / 2
